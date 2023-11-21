@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="t.me/Dmitrii_Kulik">
+  <a href="[t.me/Dmitrii_Kulik](https://t.me/Dmitrii_Kulik)">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-black">
   </a>
 </div>
